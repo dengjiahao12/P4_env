@@ -45,10 +45,15 @@ https://arctee.cn/686.html
 
 ### 2、开始配置P4
 
-#### 1、安装git
+#### 1、安装git && 确保python3指令指向期望的解释器
 
 ```shell
 $ sudo apt install git
+```
+```shell
+$ sudo apt install python3 python3-pip
+$ python3 -V
+$ python3 -m pip -V
 ```
 
 #### 2、设置工作目录并克隆本仓库
