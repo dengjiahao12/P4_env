@@ -34,7 +34,7 @@ VPN：
 （2）https://github.com/wanhebin/clash-for-linux
 ```
 
-**实在没有可以参考以下文档用虚拟机使用主机的VPN**：
+**或者VM下的Ubuntu虚拟机共享主机的VPN**：
 https://arctee.cn/686.html
 
 
