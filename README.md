@@ -21,7 +21,8 @@ CPU：2核2线程
 
 ## 2、配置P4环境
 
-参考文档：[poohdang/p4-env - 码云 - 开源中国 (gitee.com)](https://gitee.com/poohdang/p4-env/tree/advanced)（给博主点个👍，因为之前弄了好久，各种错误，这个一次就弄好了）
+参考文档：[poohdang/p4-env - 码云 - 开源中国 (gitee.com)](https://gitee.com/poohdang/p4-env/tree/advanced)
+(给博主点个👍，因为之前弄了好久，各种错误，这个一次就弄好了)
 
 ### 1、VPN
 
