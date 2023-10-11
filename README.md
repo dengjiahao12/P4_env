@@ -30,10 +30,6 @@ CPU：2核2线程
 
 VPN：
 
-```http
-（1）https://suying999.net/user/tutorial?os=linux&client=clash
-（2）https://github.com/wanhebin/clash-for-linux
-```
 
 **或者VM下的Ubuntu虚拟机共享主机的VPN**：
 ```html
