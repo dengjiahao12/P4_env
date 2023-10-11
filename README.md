@@ -28,16 +28,6 @@ CPU：2核2线程
 
 **#安装前最好能有个能在Linux上跑的VPN**
 
-VPN：
-
-
-**或者VM下的Ubuntu虚拟机共享主机的VPN**：
-```html
-https://arctee.cn/686.html
-```
-
-
-
 
 ### 2、开始配置P4
 
